@@ -1,0 +1,6 @@
+main: me.spoch.jumpingpads.Main
+name: JumpingPads
+version: 1.0
+author: Spoch
+commands:
+  jump:
